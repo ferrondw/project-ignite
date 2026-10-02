@@ -21,7 +21,7 @@ public class Datamosh : MonoBehaviour
     [Range(0, 2)] public float Diffusion = 0.8f;
 
     /// Enables/disables the effect
-    [Range(0, 1)] public int Sequence;
+    [Range(0, 2)] public int Sequence;
 
     /// Start glitching.
     public void Glitch()

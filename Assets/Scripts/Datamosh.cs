@@ -1,4 +1,6 @@
+using System;
 using UnityEngine;
+using Yakanashe.Yautl;
 
 [RequireComponent(typeof(Camera))]
 public class Datamosh : MonoBehaviour
@@ -33,6 +35,11 @@ public class Datamosh : MonoBehaviour
     public void Reset()
     {
         Sequence = 0;
+    }
+
+    public void ResetEntropyTweening(Action onComplete = null)
+    {
+        Entropy.To(0f, 2f).OnComplete(onComplete);
     }
 
     #endregion

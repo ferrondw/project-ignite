@@ -1,10 +1,11 @@
 using System;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
     public float MovementSpeed = 4;
-    public Vector2 CamSensitivity = new Vector2(0.8f, 0.5f);
+    public Vector2 CamSensitivity = new(0.8f, 0.5f);
     public Transform Camera;
     
     private float _yRot = 0f;
@@ -17,6 +18,5 @@ public class PlayerController : MonoBehaviour
         _yRot += -Input.mousePositionDelta.y * CamSensitivity.y;
         _yRot = Mathf.Clamp(_yRot, -80f, 80f);
         Camera.localEulerAngles = new Vector3(_yRot, Camera.localEulerAngles.y, Camera.localEulerAngles.z);
-
     }
 }

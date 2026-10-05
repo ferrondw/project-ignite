@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using Yakanashe.Yautl;
 
 public class Teleporter : MonoBehaviour
@@ -9,8 +10,12 @@ public class Teleporter : MonoBehaviour
     public Transform player;
     public List<Transform> teleportPoints;
 
+    public float teleportInterval = 8f;
+    public Slider teleportIntervalSlider;
+    
     private int _currentTeleportPoint = -1;
     private float _baseEntropy;
+    private float _lastTeleportTime;
 
     private void Start()
     {
@@ -19,17 +24,18 @@ public class Teleporter : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            mosh.Sequence = 1;
-            Teleport();
 
-            EntropyTo(mosh, -0.5f, 1.5f).OnComplete(() =>
-            {
-                mosh.Sequence = 0;
-                mosh.Entropy = _baseEntropy;
-            });
-        }
+        teleportIntervalSlider.value = (teleportInterval - (Time.time - _lastTeleportTime)) / teleportInterval;
+        if (!(Time.time - _lastTeleportTime > teleportInterval)) return;
+        
+        _lastTeleportTime = Time.time;
+        mosh.Sequence = 1;
+        Teleport();
+        EntropyTo(mosh, -0.5f, 1.5f).OnComplete(() =>
+        {
+            mosh.Sequence = 0;
+            mosh.Entropy = _baseEntropy;
+        });
     }
 
     private void Teleport()

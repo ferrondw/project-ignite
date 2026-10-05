@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: c210316d082d7234f8827058886e0616
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-everything_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1040
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5913427e716f96341a6883b6f48035fb
+      internalID: 481160172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1040
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9f00be85e97f944ad7a1cbb6ef01a4
+      internalID: -1746129412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1040
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14ccf7350dba144afd3e090487f79c
+      internalID: 144801981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1039
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d237627b7fa788445b4e91da54649ce7
+      internalID: 663126962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1016
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b9e2ae379b8a47b49e28bbd28e7c0
+      internalID: -525534942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1033
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbaabcac2f7be8478e0556e5e1067fa
+      internalID: -1813288599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 968
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dffb5f156d2a32488c394a3786f8fca
+      internalID: 607428326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 968
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4e75f37f210a440aa3fd82782a84fc
+      internalID: 1740287858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 968
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258ad5d380b51994fb70ccbfa0eef23e
+      internalID: -1949258549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 920
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c514a8e7915d11142b165d65ae55811d
+      internalID: -219762099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_11
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 920
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef12d6148b1123f4aaa6ff76ee1ee500
+      internalID: 1913959570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1012
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb357349b33c23458b4a6433d54981a
+      internalID: -1945593211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1012
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69813aa910c7824f9d0a218e476f231
+      internalID: -704162099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1012
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9715a2f3b27514eaed32120f7ce084
+      internalID: 1127683089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1016
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3628aa0e62f2c9408c20e425cd97e48
+      internalID: 720937632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1016
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4b024c609dbca43bcf10f686ba16ff
+      internalID: -1630286918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1016
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c5cf958033cf4409b876e91623419b
+      internalID: 670199767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1016
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffac7cd1bd35a340a71a8dc16e1004d
+      internalID: -672292272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 945
+        width: 14
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01003e6bf94c706468703f1dce044742
+      internalID: 773059629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 952
+        width: 17
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c4e9d5958a56a4fa0e8ab767bcf5d2
+      internalID: -1054773689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 952
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b4ba87df5a9ee43ab3891eb58f1c34
+      internalID: 685342680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 952
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b69e3d900559048b267f3cb0d70a84
+      internalID: 2132318310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 984
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3405ec0cd87f6ca4290ff2dfe8f0c855
+      internalID: -2009974850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 984
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0398eaca8ff1dd48afa1e02b5b1b468
+      internalID: -769109854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 984
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80c4a72e96b2b0478a1918792a98742
+      internalID: -1495338800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 987
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec645f8b58fe3c4a8bb994c92f0747e
+      internalID: -1782208129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 968
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffc941cab2eb2448b321a8a9f00b454
+      internalID: -424982838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 980
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aa194bdfc05d148b62d92599195e4f
+      internalID: -2073243088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 952
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4324d356df0197543a8219a66bfbc21f
+      internalID: 1058044632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 944
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fa3a6db7a9e0a469e985476b3c39b8
+      internalID: -1839684269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 944
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dfe25616eff664b8518b0f0603b066
+      internalID: -1877594380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 943
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d842cf393617e4181a321e73a6eed3
+      internalID: -638962283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 920
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccab87870326f64aaa9defe011e22fc
+      internalID: -865563837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 924
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f22170ee4b4374a816df0b22e93c7c
+      internalID: -345399397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 918
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430142037b2f3c84ea4f7751baa98816
+      internalID: 902102318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 918
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e42250eeb4584799e4d48a2bddb20
+      internalID: 1476602650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 917
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab62a6f8f1ee864b93eb25c2046e5dc
+      internalID: 1174075332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 571
+        width: 30
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba11df49d2f540e43ae5ec27831f36aa
+      internalID: -822006307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 892
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf3cfa73c336746b5728c590067589
+      internalID: -2055449905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 892
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9f2859ac85ba8478aa6b6f69fd996f
+      internalID: 1487140147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 890
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a6ee4d7be181f42bd0be20cd68b713
+      internalID: -2128631812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 891
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fed4cbdc9c1d4f408b7c56ce40e94eb
+      internalID: -1962498564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_45
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 886
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cbbd4b1f272a3479e04a7e8fb5d86f
+      internalID: 1460980072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 887
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a882a5a6b9514db6ddbac596ecdbb
+      internalID: -896522923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_47
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 886
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6093b483fe64ea4c84ee9936b3f3037
+      internalID: -1315175722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_48
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 707
+        width: 465
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62659b31a86a6541a155b17c7c5d0ac
+      internalID: -1762628457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 866
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8895fa0efcaf7894db6fb1f10608fbd8
+      internalID: 1303284334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 866
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76dfe5e50cd364b8cf98dcd37f4ba4
+      internalID: -2119005304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 863
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb356191289fdf4788ec24613984b44
+      internalID: 1803144423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 858
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d301302b6cc145948acbeb24e9704
+      internalID: -1124688207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 843
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec5eb16ba4a7624b943c632037d8e50
+      internalID: 1339836390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 840
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5126034cf06b4f143bce3b183242a1d1
+      internalID: 180319634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_56
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 840
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4510f2c8c262c1c4aa857c1cc9c4be75
+      internalID: 487504102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 857
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28c1ed4d6dcf7429a52daca496ff62
+      internalID: 1556503208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_58
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 857
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46278b0fe2b9cd41bc2f8fb82e1a007
+      internalID: 1275089089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_59
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 840
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e9cc91fc8df184e8d68ac50e58dd5e
+      internalID: -295923105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_60
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 840
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bf4785756d65043b622b85876a2286
+      internalID: 1995840569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_61
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 714
+        width: 28
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cef86657fc67f49bb9151a3916bb48
+      internalID: -1620814286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_62
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 716
+        width: 14
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130516a1be4ab644b696c469e5d22de
+      internalID: -1083493733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 827
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c598314b705a5443bc0179c4fd32168
+      internalID: 1452168057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 827
+        width: 73
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13eee0441ca91e4ba063f3884a2e10f
+      internalID: -1653851607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 565
+        width: 64
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c0fc60d5b84354f96f79a8f7448b18
+      internalID: 1188349131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 790
+        width: 195
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6bf5ef2697be84096a385a4e37c172
+      internalID: 1686677733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 756
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6588780cc27d474f8f83138eb142cb4
+      internalID: 1410612807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 760
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ab576dd4b307d44b6d9cfde1a42b86
+      internalID: -674715232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_69
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 715
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e371f41b08c26aa4698a9198eacfd231
+      internalID: 749516854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_70
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 714
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dadcb2905eeb2241ac43d47e6224d51
+      internalID: 1378235452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_71
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 714
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b4a0cefea8b2f478af911d50858fc9
+      internalID: 1966372724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_72
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 696
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65635499f4b9d8940a7d77fb3f4ec4a2
+      internalID: -1477448278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_73
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 485
+        width: 464
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1199fffaf18b9904696a0207bda65ac8
+      internalID: 731807111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 657
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12316bde1d2343a44a0f0b1ebbf93421
+      internalID: 304318707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-everything_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 622
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193f46d0922f23146b8699bcafb81b4b
+      internalID: 14497616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 604f28b98c279c24ab8184e1147001c1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite-everything_0: 481160172
+      Sprite-everything_1: -1746129412
+      Sprite-everything_10: -219762099
+      Sprite-everything_11: 1913959570
+      Sprite-everything_12: -1945593211
+      Sprite-everything_13: -704162099
+      Sprite-everything_14: 1127683089
+      Sprite-everything_15: 720937632
+      Sprite-everything_16: -1630286918
+      Sprite-everything_17: 670199767
+      Sprite-everything_18: -672292272
+      Sprite-everything_19: 773059629
+      Sprite-everything_2: 144801981
+      Sprite-everything_20: -1054773689
+      Sprite-everything_21: 685342680
+      Sprite-everything_22: 2132318310
+      Sprite-everything_23: -2009974850
+      Sprite-everything_24: -769109854
+      Sprite-everything_25: -1495338800
+      Sprite-everything_26: 753243079
+      Sprite-everything_27: -1782208129
+      Sprite-everything_28: -424982838
+      Sprite-everything_29: -2073243088
+      Sprite-everything_3: 663126962
+      Sprite-everything_30: 1058044632
+      Sprite-everything_31: 2045878423
+      Sprite-everything_32: -1839684269
+      Sprite-everything_33: -1877594380
+      Sprite-everything_34: -638962283
+      Sprite-everything_35: -865563837
+      Sprite-everything_36: -345399397
+      Sprite-everything_37: 902102318
+      Sprite-everything_38: 1476602650
+      Sprite-everything_39: 1174075332
+      Sprite-everything_4: -525534942
+      Sprite-everything_40: -822006307
+      Sprite-everything_41: -2055449905
+      Sprite-everything_42: 1487140147
+      Sprite-everything_43: -2128631812
+      Sprite-everything_44: -1962498564
+      Sprite-everything_45: 1460980072
+      Sprite-everything_46: -896522923
+      Sprite-everything_47: -1315175722
+      Sprite-everything_48: -1762628457
+      Sprite-everything_49: 1303284334
+      Sprite-everything_5: -1813288599
+      Sprite-everything_50: -2119005304
+      Sprite-everything_51: 1803144423
+      Sprite-everything_52: -1193191933
+      Sprite-everything_53: -1124688207
+      Sprite-everything_54: 1339836390
+      Sprite-everything_55: 180319634
+      Sprite-everything_56: 487504102
+      Sprite-everything_57: 1556503208
+      Sprite-everything_58: 1275089089
+      Sprite-everything_59: -295923105
+      Sprite-everything_6: -389288735
+      Sprite-everything_60: 1995840569
+      Sprite-everything_61: -1620814286
+      Sprite-everything_62: -1083493733
+      Sprite-everything_63: 1452168057
+      Sprite-everything_64: -1653851607
+      Sprite-everything_65: 1188349131
+      Sprite-everything_66: 1686677733
+      Sprite-everything_67: 1410612807
+      Sprite-everything_68: -674715232
+      Sprite-everything_69: 749516854
+      Sprite-everything_7: 607428326
+      Sprite-everything_70: 1378235452
+      Sprite-everything_71: 1966372724
+      Sprite-everything_72: -1477448278
+      Sprite-everything_73: 731807111
+      Sprite-everything_74: 304318707
+      Sprite-everything_75: 1514561557
+      Sprite-everything_76: 14497616
+      Sprite-everything_8: 1740287858
+      Sprite-everything_9: -1949258549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

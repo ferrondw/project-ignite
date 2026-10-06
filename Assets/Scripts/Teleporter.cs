@@ -20,6 +20,8 @@ public class Teleporter : MonoBehaviour
     private void Start()
     {
         _baseEntropy = mosh.Entropy;
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     private void Update()
@@ -36,6 +38,17 @@ public class Teleporter : MonoBehaviour
             mosh.Sequence = 0;
             mosh.Entropy = _baseEntropy;
         });
+
+        if (Input.GetKeyDown(KeyCode.N))
+        {
+            Cursor.lockState = CursorLockMode.Locked;
+            Cursor.visible = false;
+        }
+        else if (Input.GetKeyDown(KeyCode.M))
+        {
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+        }
     }
 
     private void Teleport()

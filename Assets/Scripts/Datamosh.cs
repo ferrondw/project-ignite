@@ -47,6 +47,7 @@ public class Datamosh : MonoBehaviour
     #region Private properties
 
     [SerializeField] Shader _shader;
+    [SerializeField] Material _crtMaterial;
 
     private Material _material;
 
@@ -123,7 +124,7 @@ public class Datamosh : MonoBehaviour
             Graphics.Blit(source, _workBuffer);
 
             // Blit without effect.
-            Graphics.Blit(source, destination);
+            BlitWithCRT(source, destination);
         }
         else if (Sequence == 1)
         {
@@ -136,7 +137,7 @@ public class Datamosh : MonoBehaviour
 
             // Simply blit the working buffer because motion vectors
             // might not be ready (because of camera switching).
-            Graphics.Blit(_workBuffer, destination);
+            BlitWithCRT(_workBuffer, destination);
 
             Sequence++;
         }
@@ -164,8 +165,13 @@ public class Datamosh : MonoBehaviour
             }
 
             // Blit the result.
-            Graphics.Blit(_workBuffer, destination);
+            BlitWithCRT(_workBuffer, destination);
         }
+    }
+    
+    private void BlitWithCRT(RenderTexture source, RenderTexture destination)
+    {
+        Graphics.Blit(source, destination, _crtMaterial);
     }
 
     #endregion

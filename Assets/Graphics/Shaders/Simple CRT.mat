@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Simple CRT
+  m_Shader: {fileID: 4800000, guid: 983693f3795d4664c903ee63b5fadf72, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DecalTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FilmDirtTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ChromaticAberrationOnOff: 0
+    - _ChromaticAberrationStrength: 0
+    - _DecalStrength: 1
+    - _DecalTexOnOff: 0
+    - _FilmDirtOnOff: 0
+    - _FilmDirtSpeed: 1
+    - _FilmDirtStrength: 0.25
+    - _FlickeringCycle: 11.6
+    - _FlickeringOnOff: 1
+    - _FlickeringStrength: 0.066
+    - _LetterBoxOnOff: 1
+    - _LetterBoxSize: 0.1
+    - _LetterBoxType: 0
+    - _MonochormeOnOff: 0
+    - _MultipleGhostOnOff: 1
+    - _MultipleGhostStrength: 0.02
+    - _ScanlineFrequency: 668
+    - _ScanlineOnOff: 1
+    - _ScanlineStrength: 0.002
+    - _ScreenJumpLevel: 0
+    - _SlippageInterval: 216
+    - _SlippageNoiseOnOff: 1
+    - _SlippageOnOff: 1
+    - _SlippageScrollSpeed: 10.9
+    - _SlippageSize: 2.73
+    - _SlippageStrength: 0.0037
+    - _WhiteNoiseOnOff: 0
+    - _WhiteNoiseStrength: 0.08
+    m_Colors:
+    - _DecalTexPos: {r: 0, g: 0, b: 0, a: 0}
+    - _DecalTexScale: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

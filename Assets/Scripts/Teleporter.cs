@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 using Yakanashe.Yautl;
 
@@ -8,6 +9,7 @@ public class Teleporter : MonoBehaviour
 {
     [SerializeField] private Transform player;
     [SerializeField] private float downwardsTeleport = -5f;
+    [SerializeField] private UnityEvent onPlayerTeleported;
 
     private void Start()
     {
@@ -32,6 +34,7 @@ public class Teleporter : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         Teleport();
+        onPlayerTeleported.Invoke();
     }
 
     private void Teleport()

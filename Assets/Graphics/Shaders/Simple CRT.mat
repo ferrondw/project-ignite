@@ -62,7 +62,7 @@ Material:
     - _SlippageOnOff: 1
     - _SlippageScrollSpeed: 10.9
     - _SlippageSize: 2.73
-    - _SlippageStrength: 0.0037
+    - _SlippageStrength: 0.001
     - _WhiteNoiseOnOff: 0
     - _WhiteNoiseStrength: 0.08
     m_Colors:

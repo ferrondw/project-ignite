@@ -9,11 +9,6 @@ public class InteractionChecker : MonoBehaviour
 
     private void LateUpdate()
     {
-        if (Physics.Raycast(transform.position, transform.forward, out var hitInfo2, checkDistance))
-        {
-            Debug.Log(hitInfo2.transform.name);
-        }
-
         if (!Physics.Raycast(transform.position, transform.forward, out var hitInfo, checkDistance, interactionLayer))
         {
             interactText.gameObject.SetActive(false);

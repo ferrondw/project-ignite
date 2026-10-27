@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a138bbbb-c6c2-4a1c-8ac7-c8f08b512343" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectIgnite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectIgnite/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Sprites/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Teleporter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Teleporter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Fonts/Pixelta SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Fonts/Pixelta SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +112,7 @@
       <workItem from="1791745820040" duration="4322000" />
       <workItem from="1793014832136" duration="1242000" />
       <workItem from="1793041624544" duration="4262000" />
-      <workItem from="1793108904887" duration="5892000" />
+      <workItem from="1793108904887" duration="6637000" />
     </task>
     <servers />
   </component>

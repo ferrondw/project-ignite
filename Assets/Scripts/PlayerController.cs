@@ -19,4 +19,9 @@ public class PlayerController : MonoBehaviour
         _yRot = Mathf.Clamp(_yRot, -80f, 80f);
         Camera.localEulerAngles = new Vector3(_yRot, Camera.localEulerAngles.y, Camera.localEulerAngles.z);
     }
+
+    public void TeleportTo(Transform target)
+    {
+        transform.position = target.position;
+    }
 }

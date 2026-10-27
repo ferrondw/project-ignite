@@ -37,11 +37,6 @@ public class Datamosh : MonoBehaviour
         Sequence = 0;
     }
 
-    public void ResetEntropyTweening(Action onComplete = null)
-    {
-        Entropy.To(0f, 2f).OnComplete(onComplete);
-    }
-
     #endregion
 
     #region Private properties
@@ -172,6 +167,7 @@ public class Datamosh : MonoBehaviour
     private void BlitWithCRT(RenderTexture source, RenderTexture destination)
     {
         Graphics.Blit(source, destination, _crtMaterial);
+        // Graphics.Blit(source, destination);
     }
 
     #endregion

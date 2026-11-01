@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a138bbbb-c6c2-4a1c-8ac7-c8f08b512343" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectIgnite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectIgnite/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Fonts/Pixelta SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Fonts/Pixelta SDF.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InteractableUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InteractableUtils.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377bf0f3c0b4406b93ef34615507aea78a00/ae/a57bd545/Input.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e509afeff7384f24a8f0ac30527ff01c1cbe00/8c/6193f8f1/Transform.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e509afeff7384f24a8f0ac30527ff01c1cbe00/ac/4f01c5d7/MonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mosher.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -117,6 +117,7 @@
       <workItem from="1793041624544" duration="4262000" />
       <workItem from="1793108904887" duration="6637000" />
       <workItem from="1793491896337" duration="300000" />
+      <workItem from="1793572344695" duration="2851000" />
     </task>
     <servers />
   </component>

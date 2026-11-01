@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float bobAmount = 0.2f;
     [SerializeField] private float bobSpeed = 4;
     [SerializeField] private new Transform camera;
+    [SerializeField] private AudioSource footStepSource;
     
     private float _yRot = 0f;
     private Vector3 _defaultCameraPosition;
@@ -27,6 +28,7 @@ public class PlayerController : MonoBehaviour
         _yRot = Mathf.Clamp(_yRot, -80f, 80f);
         camera.localEulerAngles = new Vector3(_yRot, camera.localEulerAngles.y, camera.localEulerAngles.z);
         camera.localPosition = _defaultCameraPosition + new Vector3(0, Mathf.Abs(Mathf.Sin(Time.time * bobSpeed)) * bobAmount * Input.GetAxis("Vertical"));
+        footStepSource.volume = Mathf.Clamp01(Mathf.Abs(Input.GetAxis("Vertical")) + Mathf.Abs(Input.GetAxis("Horizontal")));
     }
 
     public void TeleportTo(Transform target)

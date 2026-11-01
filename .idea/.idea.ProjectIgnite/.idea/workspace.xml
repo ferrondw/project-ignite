@@ -51,7 +51,7 @@
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../Data/Downloads/SpiralingAlpha1\ProjectIgnite.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../Data/Downloads/SpiralingAlpha2\ProjectIgnite.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="Z:\Data\Downloads\Playtest12" />
       <option name="PASS_PARENT_ENVS" value="1" />

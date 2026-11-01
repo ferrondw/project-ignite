@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        transform.Translate(new Vector3(0, 0, Input.GetAxis("Vertical")) * (movementSpeed * 0.01f), Space.Self);
+        transform.Translate(new Vector3(Input.GetAxis("Horizontal") * (movementSpeed * 0.1f), 0, Input.GetAxis("Vertical")) * (movementSpeed * 0.01f), Space.Self);
         transform.Rotate(new Vector3(0, Input.mousePositionDelta.x * camSensitivity.x, 0), Space.Self);
         
         _yRot += -Input.mousePositionDelta.y * camSensitivity.y;

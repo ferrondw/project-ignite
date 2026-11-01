@@ -37,8 +37,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _ChromaticAberrationOnOff: 0
-    - _ChromaticAberrationStrength: 0
+    - _ChromaticAberrationOnOff: 0.02
+    - _ChromaticAberrationStrength: 0.02
     - _DecalStrength: 1
     - _DecalTexOnOff: 0
     - _FilmDirtOnOff: 0
@@ -46,25 +46,25 @@ Material:
     - _FilmDirtStrength: 0.25
     - _FlickeringCycle: 11.6
     - _FlickeringOnOff: 1
-    - _FlickeringStrength: 0.066
+    - _FlickeringStrength: 0.024
     - _LetterBoxOnOff: 1
     - _LetterBoxSize: 0.1
     - _LetterBoxType: 0
     - _MonochormeOnOff: 0
-    - _MultipleGhostOnOff: 1
+    - _MultipleGhostOnOff: 0.4
     - _MultipleGhostStrength: 0.02
     - _ScanlineFrequency: 668
-    - _ScanlineOnOff: 1
-    - _ScanlineStrength: 0.002
+    - _ScanlineOnOff: 0.01
+    - _ScanlineStrength: 0.115
     - _ScreenJumpLevel: 0
-    - _SlippageInterval: 216
-    - _SlippageNoiseOnOff: 1
-    - _SlippageOnOff: 1
-    - _SlippageScrollSpeed: 10.9
-    - _SlippageSize: 2.73
-    - _SlippageStrength: 0.001
+    - _SlippageInterval: 10
+    - _SlippageNoiseOnOff: 0
+    - _SlippageOnOff: 0
+    - _SlippageScrollSpeed: 0
+    - _SlippageSize: 0.1
+    - _SlippageStrength: 0
     - _WhiteNoiseOnOff: 0
-    - _WhiteNoiseStrength: 0.08
+    - _WhiteNoiseStrength: 0
     m_Colors:
     - _DecalTexPos: {r: 0, g: 0, b: 0, a: 0}
     - _DecalTexScale: {r: 1, g: 1, b: 0, a: 0}

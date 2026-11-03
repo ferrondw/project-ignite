@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a138bbbb-c6c2-4a1c-8ac7-c8f08b512343" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectIgnite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectIgnite/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Fonts/Pixelta SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Fonts/Pixelta SDF.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InteractableUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InteractableUtils.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../Data/Downloads/SpiralingAlpha2\ProjectIgnite.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../Data/Downloads/SpiralingRelease3\ProjectIgnite.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="Z:\Data\Downloads\Playtest12" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -118,6 +119,7 @@
       <workItem from="1793108904887" duration="6637000" />
       <workItem from="1793491896337" duration="300000" />
       <workItem from="1793572344695" duration="2851000" />
+      <workItem from="1793710662790" duration="264000" />
     </task>
     <servers />
   </component>
